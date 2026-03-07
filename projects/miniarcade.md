@@ -4,7 +4,7 @@ type: project
 image: img/miniarcade.png
 title: "Mini Arcade"
 date: 2026-01-05
-published: true
+published: False
 labels:
   - HTML
   - CSS
