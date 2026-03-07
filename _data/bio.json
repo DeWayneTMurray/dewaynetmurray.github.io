@@ -7,7 +7,7 @@
     "phone": "502-851-7575",
     "website": "https://dewaynetmurray.github.io",
     "summary": "I am studying for a Bachelor's of Science in Interdiciplinary Business Studies with Concentrations in Business Management, Informastion Technology, Web Development, & Software Developement at Sullivan University. I expect to graduate in Spring, 2027.",
-    "location": { "address": "2307 Ratcliffe Avenue", "postalCode": "40210", "city": "Louisville","state: "Kentucky", "country": "USA" },
+    "location": { "address": "2307 Ratcliffe Avenue", "postalCode": "40210", "city": "Louisville","state": "Kentucky", "country": "USA" },
     
     "profiles": [
       { "network": "github", "username": "DeWayneTMurray", "url": "https://github.com/DeWayneTMurray" },
