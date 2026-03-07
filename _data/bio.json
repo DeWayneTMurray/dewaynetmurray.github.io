@@ -30,12 +30,12 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "MicrosoftOS", "Git/GitHub", "Android OS", "IOS", "Google Workspace" ]
+      "keywords": [ "MacOS", "MicrosoftOS", "GitHub", "Android OS", "IOS", "Google Workspace" ]
     }
 
       {
       "name": "Management",
-      "keywords": [ "Employee Recruitment and Retention", "Planning & Organizing", "Training, Coaching & Influencing", "Supervising & Delegation",]
+      "keywords": [ "Employee Recruitment and Retention", "Planning & Organizing", "Training, Coaching & Influencing", "Supervising & Delegation"]
     }
     
       {
@@ -45,7 +45,7 @@
 
       {
       "name": "Sales",
-      "keywords": [ "B2B", "CRM & Salesforce", "Sales Consulting", "Account Management " ]
+      "keywords": [ "B2B", "CRM & Salesforce", "Sales Consulting", "Account Management" ]
     }
     
   ],
@@ -67,7 +67,7 @@
       "website": "https://www.sullivan.edu",
       "startDate": "2024-04-01",
       "endDate": "Present",
-      "Description": "Interview prospect students to determine if they are a great fit for the university. Assist active students with the enrollment process and get them fully registered for classes, Give Campus and Resident Hall Tours, Mentor new Advisors, Push to hit Enrollment, Application and additional Metric Goals.",
+      "Description": "Interview prospect students to determine if they are a great fit for the university. Assist active students with the enrollment process and get them fully registered for classes, Give Campus and Resident Hall Tours, Mentor new Advisors, Push to hit Enrollment, Application and additional Metric Goals."
     
     },
     {
@@ -76,7 +76,7 @@
       "website": "https://www.familydollar.com",
       "startDate": "2022-10-01",
       "endDate": "2024-04-30",
-      "Description": "Successfully manage a 2-million-dollar small box store, Drive year over year sales percentages, Vendor and shipment receiving, maintain a customer ready store, Monitor Inventory, and labor budgets. Profit loss management, Process Vendor Receipts, Track and maintain accurate billing summaries and vendor invoices, Facility management and upkeep, Monitor shrink and maintain levels under 3%, Recruiting onboarding and Team Development, Assist District manager with running additional stores when needed to ensure success in the district.",
+      "Description": "Successfully manage a 2-million-dollar small box store, Drive year over year sales percentages, Vendor and shipment receiving, maintain a customer ready store, Monitor Inventory, and labor budgets. Profit loss management, Process Vendor Receipts, Track and maintain accurate billing summaries and vendor invoices, Facility management and upkeep, Monitor shrink and maintain levels under 3%, Recruiting onboarding and Team Development, Assist District manager with running additional stores when needed to ensure success in the district."
     }
   ],
 
