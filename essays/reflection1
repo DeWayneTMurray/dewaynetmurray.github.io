@@ -9,46 +9,34 @@ labels:
   - Project Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+Web Application Project: Mini Arcade
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+DeWayne T. Murray
+Sullivan University
+CSC272: Principles of System Design
+Scott Cordle
+Winter 2026
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
 
-Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
+When tasked with creating a project, in order to choose between creating a Website, Web Application, Software Application, or Mobile App; I reflected on my previous experience to determine what I thought I’d be best at creating. Aside from not being able to choose a website as my project topic; I thought that it would be too easy. I also thought that the mobile application would be a bit too challenging for me. With it down to a web or software application I was able to narrow things down quickly because I feel much more confident with building a web application than a software application. This stems primarily from additional technology and software restraints I would experience as a result of choosing a software application. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+When the topic guidelines gave an example of creating an interactive game; I thought back to a rock paper scissors game and a few other simple game assignments that I have worked on in previous classes. I thought that that would be a great topic however I wanted to challenge myself a bit instead of just doing an easy project. Additionally, I felt that I was already playing it a bit safe by not working on a project outside of my comfort zone. This led me to create a Mini game arcade that offers several games that players can chosen from. The games were simple but demonstrate my ability to use JavaScript. The planned leaders board would have showcased an active database within my project. Yes, I did say planned leaders board, this unfortunately was a bit of a letdown as I would consider it one of my biggest failures within my project, but we’ll circle back to this. Overall, the entire web application demonstrates my ability to combine HTML, CSS, and JavaScript allowing me to demonstrate my various skills that I’ve learned as a web developer.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Week one I started developing my app. I didn’t do any coding but brainstormed to create a weekly plan for what I’d focus on to get my project completed by the deadline. I also stared thinking through how I would lay out my application. Some feedback that I received early on was that I was behind. That feedback turned out to be 1,000% correct. I would later learn this the hard way.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Week two was when I started implementing and building my site based off the plan I created week one. My goal was to build the skeleton and skin of my application. While working through this I played around a bit with different colors and layouts. Overall, this was a simple task. Looking back once I finished, I should have started working ahead on my week three plan.
 
-## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+Week three was a deeper dive into coding my application. I managed to get most of my games built but I kept running into minor issues with my JS. Each problem was something simple like typing or placement errors for certain syntax. This delayed me with completing JS for each of the games.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Week four’s goal was to finish up with all coding; however, it didn’t go as planned. I got down to two games that needed JS as well as the leader’s board. My initial planning did not allot me sufficient time to stay on track with my project timeline.
 
-## In the context of relationships
+When it came to week five as with previous weeks I was behind due to insufficient feasible planning. During week six, which was well past the deadline.  I ended up eventually finishing my application with the exception of one key feature. As a result of being late finishing my application, I also ended up being behind on the final project report, and this assignment as well.
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+My biggest success from this project was that I got to challenge myself to make a fully interactive web application. I really enjoyed how the final outcome turned out; however, it was missing a key component. The purpose of my project was to build a mini arcade. What arcade or video game have you played that does not allow a scoring system? My application was missing this key component, and I consider that a failure. Schedule and effective time management was my biggest failure overall. If I gave myself more time and created a schedule that was truly feasible to manage and balance with my work and personal life, I may been able to finish my application in full with the leader’s board as I originally planned.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+For other students and individuals in my position the biggest advice that I can offer is to read the instructions and plan carefully. You should ask yourself honest questions to determine what you truly can and can’t due within a certain time frame. Heed the caution of your professor or project manager. To also reiterate reading instructions and planning carefully; In my case, the project instructions advised not to take on too much. Although I wanted to take on a project to challenge myself; I took on a project that was too much and if I had dialed it down, I may have also had better luck completing my project and the additional assignments that followed on time. Don’t be your own worst enemy!
