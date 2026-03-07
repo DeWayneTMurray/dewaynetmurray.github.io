@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/miniarcade.png
 title: "Mini Arcade"
 date: 2026-01-05
 published: true
