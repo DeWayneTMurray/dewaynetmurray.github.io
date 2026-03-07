@@ -6,16 +6,22 @@
     "email": "dewaynemurray@icloud.com",
     "phone": "502-851-7575",
     "website": "https://dewaynetmurray.github.io",
-    "summary": "I am studying for a Bachelor's of Science in Interdiciplinary Business Studies with Concentrations in Business Management, Informastion Technology, Web Development, & Software Developement at Sullivan University. I expect to graduate in Spring, 2027.",
-    "location": { "address": "2307 Ratcliffe Avenue", "postalCode": "40210", "city": "Louisville","state": "Kentucky", "country": "USA" },
-    
+    "summary": "I am studying for a Bachelor's of Science in Interdisciplinary Business Studies with Concentrations in Business Management, Information Technology, Web Development, & Software Development at Sullivan University. I expect to graduate in Spring, 2027.",
+    "location": {
+      "address": "2307 Ratcliffe Avenue",
+      "postalCode": "40210",
+      "city": "Louisville",
+      "state": "Kentucky",
+      "country": "USA"
+    },
     "profiles": [
       { "network": "github", "username": "DeWayneTMurray", "url": "https://github.com/DeWayneTMurray" },
       { "network": "linkedin", "username": "Coming Soon to a Theater Near You", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "Coming Soon to DVD", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "Coming Soon to Blueray", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "Coming Soon to BluRay", "url": "http://instagram.com/changeme" }
     ]
   },
+
   "interests": [
     { "name": "Web Development" },
     { "name": "Higher Education" },
@@ -23,32 +29,30 @@
     { "name": "Management" },
     { "name": "Economics" }
   ],
+
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C#", "HTML", "CSS", "Java", "Javascript" ]
+      "keywords": ["C#", "HTML", "CSS", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "MicrosoftOS", "GitHub", "Android OS", "IOS", "Google Workspace" ]
-    }
-
-      {
+      "keywords": ["MacOS", "MicrosoftOS", "GitHub", "Android OS", "IOS", "Google Workspace"]
+    },
+    {
       "name": "Management",
-      "keywords": [ "Employee Recruitment and Retention", "Planning & Organizing", "Training, Coaching & Influencing", "Supervising & Delegation"]
-    }
-    
-      {
+      "keywords": ["Employee Recruitment and Retention", "Planning & Organizing", "Training, Coaching & Influencing", "Supervising & Delegation"]
+    },
+    {
       "name": "Business Operations",
-      "keywords": [ "Contract Management", "Billing Reports", "Market Analysis", "Expense Reports", "OSHA Complience", "Department of Labor Guidlines", "Employment Law" ]
-    }
-
-      {
+      "keywords": ["Contract Management", "Billing Reports", "Market Analysis", "Expense Reports", "OSHA Compliance", "Department of Labor Guidelines", "Employment Law"]
+    },
+    {
       "name": "Sales",
-      "keywords": [ "B2B", "CRM & Salesforce", "Sales Consulting", "Account Management" ]
+      "keywords": ["B2B", "CRM & Salesforce", "Sales Consulting", "Account Management"]
     }
-    
   ],
+
   "education": [
     {
       "institution": "Sullivan University, Louisville, KY",
@@ -56,10 +60,10 @@
       "studyType": "B.S.",
       "startDate": "2024-06-30",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
+
   "work": [
     {
       "company": "Sullivan University",
@@ -67,8 +71,7 @@
       "website": "https://www.sullivan.edu",
       "startDate": "2024-04-01",
       "endDate": "Present",
-      "Description": "Interview prospect students to determine if they are a great fit for the university. Assist active students with the enrollment process and get them fully registered for classes, Give Campus and Resident Hall Tours, Mentor new Advisors, Push to hit Enrollment, Application and additional Metric Goals."
-    
+      "description": "Interview prospect students to determine if they are a great fit for the university. Assist active students with the enrollment process and register them for classes. Give campus and residence hall tours. Mentor new advisors and work toward enrollment and application goals."
     },
     {
       "company": "Family Dollar",
@@ -76,7 +79,7 @@
       "website": "https://www.familydollar.com",
       "startDate": "2022-10-01",
       "endDate": "2024-04-30",
-      "Description": "Successfully manage a 2-million-dollar small box store, Drive year over year sales percentages, Vendor and shipment receiving, maintain a customer ready store, Monitor Inventory, and labor budgets. Profit loss management, Process Vendor Receipts, Track and maintain accurate billing summaries and vendor invoices, Facility management and upkeep, Monitor shrink and maintain levels under 3%, Recruiting onboarding and Team Development, Assist District manager with running additional stores when needed to ensure success in the district."
+      "description": "Managed a $2M small-box retail store. Oversaw inventory, labor budgets, vendor receiving, billing summaries, and invoices. Maintained shrink levels under 3%. Recruited and trained employees while supporting district store operations."
     }
   ],
 
