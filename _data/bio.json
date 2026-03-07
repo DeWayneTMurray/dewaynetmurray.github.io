@@ -25,20 +25,36 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "C#", "HTML", "CSS", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "MicrosoftOS", "Git/GitHub", "Android OS", "IOS", "Google Workspace" ]
     }
+
+      {
+      "name": "Management",
+      "keywords": [ "Employee Recruitment and Retention", "Planning & Organizing", "Training, Coaching & Influencing", "Supervising & Delegation",]
+    }
+    
+      {
+      "name": "Business Operations",
+      "keywords": [ "Contract Management", "Billing Reports", "Market Analysis", "Expense Reports", "OSHA Complience", "Department of Labor Guidlines", "Employment Law" ]
+    }
+
+      {
+      "name": "Sales",
+      "keywords": [ "B2B", "CRM & Salesforce", "Sales Consulting", "Account Management " ]
+    }
+    
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-06-30",
       "endDate": "Present",
       "courses": [
       ]
@@ -46,71 +62,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Sullivan University",
+      "position": "Admissions Advisor",
+      "website": "https://www.sullivan.edu",
+      "startDate": "2024-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "Description": "Interview prospect students to determine if they are a great fit for the university. Assist active students with the enrollment process and get them fully registered for classes, Give Campus and Resident Hall Tours, Mentor new Advisors, Push to hit Enrollment, Application and additional Metric Goals.",
+    
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "company": "Family Dollar",
+      "position": "Store Manager",
+      "website": "https://www.familydollar.com",
+      "startDate": "2022-10-01",
+      "endDate": "2024-04-30",
+      "Description": "Successfully manage a 2-million-dollar small box store, Drive year over year sales percentages, Vendor and shipment receiving, maintain a customer ready store, Monitor Inventory, and labor budgets. Profit loss management, Process Vendor Receipts, Track and maintain accurate billing summaries and vendor invoices, Facility management and upkeep, Monitor shrink and maintain levels under 3%, Recruiting onboarding and Team Development, Assist District manager with running additional stores when needed to ensure success in the district.",
+      
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+
   "references": [
     {
       "name": "Available upon request"
