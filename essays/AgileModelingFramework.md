@@ -4,13 +4,11 @@ type: essay
 title: "Agile Modeling Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-15
-published: false
+published: true
 labels:
   - Agile Modeling
   - Systems Analysis and Design
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 
 
