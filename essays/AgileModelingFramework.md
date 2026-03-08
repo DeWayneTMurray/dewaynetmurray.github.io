@@ -6,49 +6,66 @@ title: "Agile Modeling Framework"
 date: 2025-10-15
 published: false
 labels:
-  - Engineering
+  - Agile Modeling
+  - Systems Analysis and Design
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Agile Modeling Framework
+ 
+DeWayne T. Murray
+Sullivan University
+CSC364: Systems Analysis and Design
+Kayla Mead
+Fall 2025
 
-Here's what I think: the difficult things will always be difficult.
 
-## In the context of programming
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
-## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
 
-Relationships have always been difficult, and by nature will continue to be so.
+Agile Modeling is an adaptive approach to designing systems that can respond to changing requirements and customer needs. The purpose of the Agile Model is to create a functioning system quickly so that it can be refined. Through the agile model developers directly work with customers to ensure that the system is being created per the end users’ requirements.
 
-## Okay!
+When designing a system, the Agile Model implements several phases of the each with their own unique traits. The first phase is the planning phase. The planning phase involves the developer team defining the overall project goals, the scope, and mapping out a high-level roadmap for the system. They also choose which Agile practices and process they'll follow throughout development.
 
-So back to the original premise; why is being one of the club officers so difficult?
+The second phase is requirement analysis. The Developers work closely with stakeholders to gather and prioritize requirements based on importance and urgency. 
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
+The third phase is the designing phase. The system's architecture, interface designs, and any needed prototypes are created to ensure the design is scalable, consistent, and ready for development.
 
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+The fourth phase is the Implementation phase. Developers build the system components and integrate them, delivering working software at the end of each cycle. The team also updates the backlog and checks that development aligns with the design.
+
+The fifth phase is the testing phase. The developer team tests each component to confirm it meets requirements and works as intended. Any issues discovered are fixed to ensure the system is reliable and ready for release.
+
+The sixth phase is the deployment phase. This is the final phase where the finished system is delivered to end users, and the team provides support and training during rollout. The goal is a smooth implementation that allows users to adopt the system effectively.
+
+Agile model offers several advantages. The model establishes a focus on customer value. This helps customers get what they need most, and high value features are prioritized first. The model enhances team morale by giving ownership and independence to developers. The Agile model ensures that there is strong collaboration between developers, product owners, and stake holders. This ensures that developers have a better understanding for what the client desires and can delivers better results. Early and Continuous delivery is also a benefit that customers can take advantage of. Developers are able to release small increments of working software to show real-time progress and get feedback from customers.  Lastly the Agile Model helps improve the software quality. By implementing regular testing, continuous integration, and customer reviews; Developers are able to deliver high quality software. 
+
+Although the Agile Model has many advantages there are some disadvantages. One in particular is the inability to predict an accurate timeline. Since the model involves frequent changes, the completion time, cost and final outcomes can be hard to predict. The model also causes a dependency on the customer to deliver feedback. This can slow progress down because the customer’s availability can slow down progression. The Agile Model can also be challenging working with large teams and is best to be implemented while working with smaller teams. The more people on the team can result in difficulty keeping everyone aligned in their roles within the project. Another disadvantage is that communication is vital. Strong communication skills and self-directed team members are essential for success. If the team does not have adequate skills, it can severely hinder the project and slow progress. Lastly the overhead can increase significantly. Frequent planning sessions, reviews, and coordination meetings can take time. For small teams on tight deadlines, this can add to the overhead.
+
+
+
+
+
+
+
+
+References
+Tanya Mishra. (2023, December 22). What is Agile Modeling. https://www.simpliaxis.com/resources/what-is-agile-modeling
+GeeksforGeeks.com. (2024, August 14). Agile Model In Designing System. https://www.geeksforgeeks.org/system-design/agile-model-in-designing-system/
+GeeksforGeeks.com. (2025, July 12). Agile Methodology Advantages and Disadvantages.
+https://www.geeksforgeeks.org/software-engineering/agile-methodology-advantages-and-disadvantages/
+
+
+
+
