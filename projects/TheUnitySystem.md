@@ -6,13 +6,11 @@ title: "The Unity System"
 date: 2025-12-10
 published: True
 labels:
-  - HTML
-  - CSS
-  - Javascript
-  - Bootstrap
-  - React
-  - Visual Studios
-  - GitHub
+  - Database Management System
+  - High Education Systems
+  - elearning
+  - Wix.com
+    
 summary: "The Mini Arcade is a web developer project built to demonstrate various developer sills by creating an application that allows users to select between various diffrent many games ."
 ---
 
