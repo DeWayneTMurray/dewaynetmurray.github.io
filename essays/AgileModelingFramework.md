@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Agile Modeling Framework"
 # All dates must be YYYY-MM-DD format!
-date: 2025-10-15
+date: 2025-11-16
 published: true
 labels:
   - Agile Modeling
