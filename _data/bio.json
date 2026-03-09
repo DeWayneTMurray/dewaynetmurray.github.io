@@ -16,9 +16,9 @@
     },
     "profiles": [
       { "network": "github", "username": "DeWayneTMurray", "url": "https://github.com/DeWayneTMurray" },
-      { "network": "linkedin", "username": "Coming Soon to a Theater Near You", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "Coming Soon to DVD", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "Coming Soon to BluRay", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Coming Soon to a Theater Near You", "url": "https://www.linkedin.com/in/dewayne-murray-9390a917a/" },
+      { "network": "twitter", "username": "Coming Soon to a Theater Near You", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "Coming Soon to a Theater Near You", "url": "http://instagram.com/changeme" }
     ]
   },
 
