@@ -19,8 +19,8 @@
 .tf-social {
   display: inline-block;
   fill: var(--tf-icon-fill);
-  height: 0.9em;
-  width: 0.9em;
+  height: 0.6em;
+  width: 0.6em;
   vertical-align: -.1em;
   transition: 0.2s;
 }
